@@ -1,7 +1,7 @@
 # Progetto di Reti Logiche — Prova Finale
 **Politecnico di Milano** · Anno Accademico 2024/2025  
 Autore: Davide Petruzzi
-
+Voto: 30L/30
 ---
 
 ## Descrizione
