@@ -108,6 +108,7 @@ Per la simulazione **post-sintesi funzionale**:
 2. Poi: `Flow Navigator → Simulation → Run Simulation → Run Post-Synthesis Functional Simulation`
 
 > **Nota:** nella simulazione post-sintesi i segnali interni come `current_state` vengono rappresentati in binario. Il completamento corretto si verifica analizzando la waveform.
+> Nel repo è incluso solo il testbench ufficiale fornito dal docente (`tb2425.vhd`). Durante lo sviluppo sono stati utilizzati anche testbench aggiuntivi
 
 ---
 
